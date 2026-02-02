@@ -1,0 +1,74 @@
+UJJAWAL KUMAR
+Android Developer
++91-6290344863 kumarujjawal072@gmail.com linkedin.com/in/ujjawal-android Bangalore, India
+SUMMARY
+Senior Android Developer with 5 years of experience building and optimizing high-performance mobile apps using Jetpack
+Compose, Kotlin, and modular architecture. Proven ability to solve complex technical and product challenges, consistently improving
+app stability, user engagement, and business outcomes. Focused on user-centric design, performance tuning, and delivering
+measurable impact through personalized experiences.
+EXPERIENCE
+Product Engineer II - Android Bangalore, India
+Rapido 05/2025 - Present
+https://play.google.com/store/apps/details?id=com.rapido.rider
+•
+Independently built a server-driven, video-based captain onboarding flow across Android and backend using Orbit MVI and state
+machine architecture.
+•
+Migrated Captain App from Android 14 to 15, handling all the behavior changes.
+•
+Developed a Compose-based image cropping system to enable customizable UI components.
+•
+Implemented multiple high-impact features end-to-end in the Captain App, including Buddy Pay, Rapido for Corporate, and
+Ambulance Service integrations.
+•
+Contributed to agent to captain referral flow in partner manager app.
+Senior Android Developer Gurgaon, India
+Wayo (BluSmart group company) 04/2024 - 04/2025
+https://play.google.com/store/apps/details?id=com.lmev.rider
+•
+Led the development of Wayo Customer App using Jetpack Compose, Hilt, and multi-module architecture, achieving a 99.99%
+crash-free rate across 40K+ monthly active users.
+•
+Enabled offline-first experience by version based caching home screen data, leading to 88% of views served without hitting the
+API.
+•
+Introduced segment-based discount personalization via Remote Config, driving an estimated 12–18% increase in order conversion
+for targeted user segments.
+•
+Optimized app performance by reducing cold start time down to ~550ms and shrinking APK size to ~8MB using R8, ProGuard,
+and asset compression techniques.
+•
+Built support for multiple location selection from WhatsApp, parallel order handling, and optimized location search suggestions —
+boosting booking conversions by ~10% and enhancing user engagement.
+Senior Android Developer Gurgaon, India
+BluSmart 02/2022 - 03/2024
+https://play.google.com/store/apps/details?id=com.blusmart.rider
+•
+Developed and delivered major features in the BluSmart Rider App, including server driven help section, BluSmart Rental,
+Recurring Rental, and the Dubai market launch.
+•
+Mentored junior developers, conducted code reviews, and efficiently merged 50+ PRs, ensuring code quality.
+•
+Reduced frame freezes by ~50% using ViewStub for lazy inflation and minimizing unnecessary recompositions.
+•
+Wrote UI & Unit test suites using UI Automator & JUnit, increasing test coverage by ~60% and reducing manual QA efforts.
+•
+Rewrote legacy code to align with Clean Architecture and feature-wise modularization, reducing code duplication, and simplified
+dependency management using version catalogs.
+Android Developer Kolkata, India
+myELSA : The Complete Ecosystem for Tutors 07/2020 - 02/2022
+•
+Built and maintained edtech Android apps, integrating REST APIs and leveraging third-party libraries for faster development.
+•
+Created a scalable large video file upload system on AWS S3 with custom WorkManager, enabling persistent uploads with retry
+strategies under poor connectivity.
+•
+Built an interactive online exam module enabling timed assessments, auto-submission, and immediate result analytics.
+•
+Implemented Google Calendar and Google Meet integrations to streamline class scheduling, reminders, and live virtual sessions.
+EDUCATION
+BCA - Bachelor of Computer Application George Group of Colleges Kolkata, India
+08/2017 - 06/2020
+SKILLS
+Kotlin, Hilt, Compose, XML, Flow, Live Data, Coroutines, Google Maps, Performance Optimization, UI Testing, MVVM, MVI,
+Firebase, Android SDK, Modularization, Room DB, Play Store Deployment, Javascript, Typescript

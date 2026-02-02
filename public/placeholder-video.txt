@@ -1,0 +1,2 @@
+This is a placeholder for demo video files.
+Replace with an MP4 at `/public/placeholder-video.mp4`.
