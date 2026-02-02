@@ -11,7 +11,7 @@ export default function ExperienceCard({ exp }: { exp: Experience }) {
         {exp.role} · {exp.start} — {exp.end}
       </div>
 
-      <p style={{ marginTop: 8 }}>{exp.problem}</p>
+      <p style={{ marginTop: 8 }}>{exp.overview}</p>
 
       <div className="tech-list">
         {exp.tech.slice(0, 6).map((t) => (
