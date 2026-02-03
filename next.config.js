@@ -3,8 +3,7 @@ const repo = "portfolio"
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   output: "export",
-  basePath: "/portfolio",
-  assetPrefix: "/portfolio/",
+  basePath: `/${repo}`,
   images: {
     unoptimized: true,
   },
