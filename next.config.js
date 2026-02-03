@@ -1,6 +1,11 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  output: "export",
+  reactStrictMode: true,
+  output: 'export',  // Required for GitHub Pages
+  
+  // This is the critical part for your URL:
+  basePath: '/portfolio',
+  
   images: {
     unoptimized: true,
   },
